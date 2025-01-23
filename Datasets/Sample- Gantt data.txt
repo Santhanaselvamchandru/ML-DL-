@@ -1,0 +1,803 @@
+[
+    {
+        "id": "A1000",
+        "asBuilt_start": "1/3/2022",
+        "asBuilt_end": "1/5/2022",
+        "asPlanned_start": "1/1/2022",
+        "asPlanned_end": "1/3/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1010",
+        "asBuilt_start": "1/3/2022",
+        "asBuilt_end": "1/6/2022",
+        "asPlanned_start": "1/1/2022",
+        "asPlanned_end": "1/3/2022",
+        "criticalDelayStart_start": "2021-12-31T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-01-01T18:30:00.000Z",
+        "criticalDelayDur_start": "2022-01-05T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-01-05T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [
+            "Sat Jan 01 2022",
+            "Sun Jan 02 2022"
+        ],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [
+            {
+                "date": "Sat Jan 01 2022",
+                "concurrentType": 1,
+                "secondaryActiityID": [
+                    "A1020"
+                ]
+            },
+            {
+                "date": "Sun Jan 02 2022",
+                "concurrentType": 1,
+                "secondaryActiityID": [
+                    "A1020",
+                    "A1030"
+                ]
+            }
+        ],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1020",
+        "asBuilt_start": "1/3/2022",
+        "asBuilt_end": "1/7/2022",
+        "asPlanned_start": "1/1/2022",
+        "asPlanned_end": "1/4/2022",
+        "criticalDelayStart_start": "2021-12-31T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-01-01T18:30:00.000Z",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1030",
+        "asBuilt_start": "1/3/2022",
+        "asBuilt_end": "1/9/2022",
+        "asPlanned_start": "1/1/2022",
+        "asPlanned_end": "1/6/2022",
+        "criticalDelayStart_start": "2022-01-01T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-01-01T18:30:00.000Z",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1040",
+        "asBuilt_start": "1/4/2022",
+        "asBuilt_end": "1/5/2022",
+        "asPlanned_start": "1/4/2022",
+        "asPlanned_end": "1/4/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1050",
+        "asBuilt_start": "1/8/2022",
+        "asBuilt_end": "1/19/2022",
+        "asPlanned_start": "1/5/2022",
+        "asPlanned_end": "1/13/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1060",
+        "asBuilt_start": "1/8/2022",
+        "asBuilt_end": "1/31/2022",
+        "asPlanned_start": "1/7/2022",
+        "asPlanned_end": "1/20/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "2022-01-24T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-01-30T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1070",
+        "asBuilt_start": "2/1/2022",
+        "asBuilt_end": "2/7/2022",
+        "asPlanned_start": "1/21/2022",
+        "asPlanned_end": "1/27/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1080",
+        "asBuilt_start": "2/9/2022",
+        "asBuilt_end": "2/14/2022",
+        "asPlanned_start": "1/28/2022",
+        "asPlanned_end": "2/2/2022",
+        "criticalDelayStart_start": "2022-02-07T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-02-07T18:30:00.000Z",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1090",
+        "asBuilt_start": "2/15/2022",
+        "asBuilt_end": "2/17/2022",
+        "asPlanned_start": "2/3/2022",
+        "asPlanned_end": "2/5/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1100",
+        "asBuilt_start": "2/18/2022",
+        "asBuilt_end": "3/7/2022",
+        "asPlanned_start": "2/7/2022",
+        "asPlanned_end": "2/17/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "2022-02-28T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-03-06T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1110",
+        "asBuilt_start": "3/8/2022",
+        "asBuilt_end": "3/12/2022",
+        "asPlanned_start": "2/18/2022",
+        "asPlanned_end": "2/23/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "2022-03-11T18:30:00.000Z",
+            "minEnd": "2022-03-11T18:30:00.000Z"
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1120",
+        "asBuilt_start": "3/14/2022",
+        "asBuilt_end": "3/26/2022",
+        "asPlanned_start": "2/24/2022",
+        "asPlanned_end": "3/9/2022",
+        "criticalDelayStart_start": "2022-03-12T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-03-12T18:30:00.000Z",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "2022-03-25T18:30:00.000Z",
+            "minEnd": "2022-03-25T18:30:00.000Z"
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1130",
+        "asBuilt_start": "3/30/2022",
+        "asBuilt_end": "4/7/2022",
+        "asPlanned_start": "3/10/2022",
+        "asPlanned_end": "3/16/2022",
+        "criticalDelayStart_start": "2022-03-26T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-03-28T18:30:00.000Z",
+        "criticalDelayDur_start": "2022-04-05T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-04-06T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1140",
+        "asBuilt_start": "4/8/2022",
+        "asBuilt_end": "4/13/2022",
+        "asPlanned_start": "3/17/2022",
+        "asPlanned_end": "3/22/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1150",
+        "asBuilt_start": "4/11/2022",
+        "asBuilt_end": "4/18/2022",
+        "asPlanned_start": "3/23/2022",
+        "asPlanned_end": "3/29/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "2022-04-17T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-04-17T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "2022-04-10T18:30:00.000Z",
+            "minEnd": "2022-04-12T18:30:00.000Z"
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1160",
+        "asBuilt_start": "4/19/2022",
+        "asBuilt_end": "4/27/2022",
+        "asPlanned_start": "3/30/2022",
+        "asPlanned_end": "4/7/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1170",
+        "asBuilt_start": "4/28/2022",
+        "asBuilt_end": "5/4/2022",
+        "asPlanned_start": "4/8/2022",
+        "asPlanned_end": "4/13/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1180",
+        "asBuilt_start": "5/6/2022",
+        "asBuilt_end": "5/11/2022",
+        "asPlanned_start": "4/8/2022",
+        "asPlanned_end": "4/13/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1190",
+        "asBuilt_start": "5/6/2022",
+        "asBuilt_end": "5/14/2022",
+        "asPlanned_start": "4/8/2022",
+        "asPlanned_end": "4/13/2022",
+        "criticalDelayStart_start": "2022-04-27T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-05-04T18:30:00.000Z",
+        "criticalDelayDur_start": "2022-05-11T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-05-13T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1420",
+        "asBuilt_start": "5/16/2022",
+        "asBuilt_end": "5/17/2022",
+        "asPlanned_start": "4/14/2022",
+        "asPlanned_end": "4/15/2022",
+        "criticalDelayStart_start": "2022-05-14T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-05-14T18:30:00.000Z",
+        "criticalDelayDur_start": "",
+        "criticalDelayDur_end_": "",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1430",
+        "asBuilt_start": "5/20/2022",
+        "asBuilt_end": "5/24/2022",
+        "asPlanned_start": "4/16/2022",
+        "asPlanned_end": "4/18/2022",
+        "criticalDelayStart_start": "2022-05-17T18:30:00.000Z",
+        "criticalDelayStart_end_": "2022-05-18T18:30:00.000Z",
+        "criticalDelayDur_start": "2022-05-22T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-05-23T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    },
+    {
+        "id": "A1440",
+        "asBuilt_start": "5/25/2022",
+        "asBuilt_end": "5/25/2022",
+        "asPlanned_start": "4/18/2022",
+        "asPlanned_end": "4/18/2022",
+        "criticalDelayStart_start": "",
+        "criticalDelayStart_end_": "",
+        "criticalDelayDur_start": "2022-05-24T18:30:00.000Z",
+        "criticalDelayDur_end_": "2022-05-24T18:30:00.000Z",
+        "criticalDelayEnd_start": "",
+        "criticalDelayEnd_end_": "",
+        "excusableDelayStart": [],
+        "excusableDelayDur": [],
+        "excusableDelayEnd": [],
+        "compensableDelayStart": [],
+        "compensableDelayDur": [],
+        "compensableDelayEnd": [],
+        "concurrentDelayStart": [],
+        "concurrentDelayDur": [],
+        "concurrentDelayEnd": [],
+        "mitigationStart": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationDur": {
+            "maxStart": "",
+            "minEnd": ""
+        },
+        "mitigationEnd": {
+            "maxStart": "",
+            "minEnd": ""
+        }
+    }
+]
